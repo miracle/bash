@@ -1,0 +1,7 @@
+# bash_sources
+
+# Bash git prompt
+#source ~/.bash-git-prompt/gitprompt.sh
+
+# Markrc
+source ~/.markrc
