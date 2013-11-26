@@ -26,4 +26,5 @@ source ~/.bash/bashrc
 
 ### Others ###
 
-About the mark bash script, Please visit [here](http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html)
+* [Mark-bash](http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html)
+* [Bash-Git-Prompt](https://github.com/yerv000/Bash-Git-Prompt)
